@@ -12,7 +12,7 @@ Scanner para testar a segurança do **SEU PRÓPRIO SITE**.
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/scanner-site.git
+git clone https://github.com/lcsezx/scanner-site.git
 cd scanner-site
 npm install axios
 node index.js
